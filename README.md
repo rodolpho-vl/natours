@@ -31,7 +31,6 @@ This project was created by Jonas Schmedtmann for his online course [Advanced CS
 
 - Semantic HTML5 markup
 - Float layout
-- CSS Grid
 - Desktop-first workflow
 - [Sass](https://sass-lang.com)
 
